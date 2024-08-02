@@ -64,7 +64,7 @@ O projeto é composto por três classes principais:
 4. Impressão em Pós-ordem: Lista os elementos na ordem: 4, 5, 9, 10.
 5. Impressão em Ordem: Lista os elementos na ordem: 4, 5, 9, 10.
 
-#### Considerações Finais####
+#### Considerações Finais ####
 Este projeto oferece uma maneira eficiente de gerenciar uma árvore binária de busca, permitindo operações rápidas de inserção, exclusão e busca. A leitura de comandos a partir de um arquivo proporciona flexibilidade e facilita a automação de testes e operações. A implementação modular e bem documentada garante a clareza e a manutenção do código.
 
 #### Como Executar ####
